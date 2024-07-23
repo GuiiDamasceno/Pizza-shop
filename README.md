@@ -35,15 +35,15 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 <h2 id='pages'> Layout</h2>
 
-![Home](https://github.com/GuiiDamasceno/Plann.er-Frontend/blob/main/.github/Home.png)
+![Home](https://github.com/GuiiDamasceno/Pizza-shop/blob/main/.github/home.png?raw=true)
 
-![Details](https://github.com/GuiiDamasceno/Plann.er-Frontend/blob/main/.github/details.png)
+![Orders](https://github.com/GuiiDamasceno/Pizza-shop/blob/main/.github/orders.png?raw=true)
 
 <h2 id="usage">Executando o Front-end</h2>
 
 ```bash
 # Clone o projeto para o local desejado em seu computador.
-$ 
+$ https://github.com/GuiiDamasceno/Pizza-shop.git
 
 # Acesse a pasta do projeto:
 $ cd FoodExplorer-Frontend
